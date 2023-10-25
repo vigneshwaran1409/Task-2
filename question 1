@@ -1,0 +1,10 @@
+Difference between document and window objects
+Document object represents a web page that is loaded in the browser
+By accessing the document object,we can access the element in the console in the HTML page
+The document object can be accessed with the window
+
+Window objects
+The window object is the ovwrall window is called window object
+window object inside the part of document object
+window open all app and chrome is a window
+window and document difference between window is all the part and document is window inside part of document objects
